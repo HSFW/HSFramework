@@ -1,7 +1,0 @@
-[21:48:32] (info) HSRT: Initialized logging.
-[21:48:32] (info) HSFW: Creating window 'HSFW Window' (1600x900)
-[21:48:33] (info) HSFW: OpenGL Info:
-[21:48:33] (info) HSFW:   Vendor       -> NVIDIA Corporation
-[21:48:33] (info) HSFW:   Renderer     -> NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2
-[21:48:33] (info) HSFW:   Version      -> 4.6.0 NVIDIA 565.90
-[21:48:33] (info) HSFW:   GLSL Version -> 4.60 NVIDIA
